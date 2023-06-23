@@ -15,3 +15,5 @@ The project is built using HTML and CSS, with a responsive design that adapts to
   <li>styles.css: The CSS file that contains the styling rules for the page.</li>
   <li>README.md: This file, providing information about the project.</li>
 </ul>
+<h2>Contributing</h2>
+<p>Contributions to this project are welcome. If you find any issues or would like to suggest improvements, please submit a pull request or open an issue in the repository.</p>
